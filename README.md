@@ -10,7 +10,7 @@ I'm a recent graduate (2023 batch) with a passion for data analytics, data scien
 - 📊 Strong background in data analysis, visualization, and statistical modeling.
 
 ## Projects
-- 📈 Data Analysis & Visualization: [Black Friday Sales](https://www.kaggle.com/code/rajeshsingh3474/black-friday-sales/notebook), [Zomato Review Analysis](https://www.kaggle.com/CODE/RAJESHSINGH3474/ZOMATO-REVIEWS)
+- 📈 Data Analysis & Visualization: [Black Friday Sales](https://www.kaggle.com/code/rajeshsingh3474/black-friday-sales/notebook), [Zomato Review Analysis](https://www.kaggle.com/CODE/RAJESHSINGH3474/ZOMATO-REVIEWS),[Power BI DashBoards](https://github.com/rajeshsingh123/Power-Bi-Projects)
 - 🤖 Machine Learning Models: [Walmart Sales Prediction](https://github.com/RAJESHSINGH123/WALMART_SALES_PREDICTION), [Chest X_Ray Classification](https://github.com/RAJESHSINGH123/CHEST-X-RAY-CLASSIFICATION-)
 
 ## Learning Journey
