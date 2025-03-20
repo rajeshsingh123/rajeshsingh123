@@ -1,7 +1,7 @@
 # Hi there, I'm Rajesh Singh! 👋
 
 ## About Me
-I'm a recent graduate (2023 batch) with a passion for data analytics, data science, and software development. I love solving complex problems using my strong foundation in data structures and algorithms.
+I'm a passionate ML Engineer specializing in machine learning, NLP, and Generative AI. With a strong foundation in data structures and algorithms, I enjoy solving complex problems and building intelligent systems. My expertise spans LLM fine-tuning, Retrieval-Augmented Generation (RAG), AI-driven automation, and end-to-end ML pipelines. Always eager to explore cutting-edge AI advancements and deploy scalable, production-ready solutions!
 
 ## Skills & Achievements
 - 💡 Problem-Solving: Solved 350+ LeetCode and 100+ GeeksforGeeks challenges.
