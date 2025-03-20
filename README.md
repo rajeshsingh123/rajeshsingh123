@@ -21,7 +21,8 @@ I'm a passionate ML Engineer specializing in machine learning, NLP, and Generati
 - 📚 Currently exploring advanced topics in data science, machine learning, and deep learning.
 
 ## Leadership Experience
-- 💼 Treasurer at SAE India Collegiate Club, Pantnagar.
+- Associate Machine Learning Engineer (April 2024 - Present)
+- Data Science Intern (Dec 2023 - April 2024) at Applied Energy Technologies
 
 ## Hobbies & Habits
 - 🏃‍♂️ Running
@@ -29,7 +30,7 @@ I'm a passionate ML Engineer specializing in machine learning, NLP, and Generati
 - 🧘‍♂️ Yoga
 
 ## Fun Fact
-- 🚀 Mechanical Engineer turned Data Enthusiast!
+- 🚀 Mechanical Engineer turned Machine Learning Engineer!
 
 ## Connect with Me
 - 📚 [Kaggle](https://www.kaggle.com/rajeshsingh3474)
