@@ -4,10 +4,14 @@
 I'm a recent graduate (2023 batch) with a passion for data analytics, data science, and software development. I love solving complex problems using my strong foundation in data structures and algorithms.
 
 ## Skills & Achievements
-- 💡 Problem-solving enthusiast with 350+ LeetCode and 100+ GeeksforGeeks questions solved.
-- 🚀 Hands-on experience in machine learning, deep learning, and natural language processing.
-- 🛠 Technical proficiency in SQL, PowerBI, JAVA, Python, NumPy, Pandas, TensorFlow, Matplotlib.
-- 📊 Strong background in data analysis, visualization, and statistical modeling.
+💡 Problem-Solving: Solved 350+ LeetCode and 100+ GeeksforGeeks challenges.
+🔍 Data Expertise: Skilled in data extraction, data cleaning, and preprocessing using Pandas, NumPy, and SQL.
+🤖 AI & ML Expertise: Proficient in NLP, LLM fine-tuning, RAG, and AI agents.
+📊 ML Models: Experience with classification, regression, clustering, and deep learning models using Scikit-learn, PyTorch, and TensorFlow.
+🛠 Tech Stack: Python, SQL (MS SQL, MySQL), Flask, and Django APIs.
+⚡ Production AI: Hands-on experience with Docker, model deployment, and API integration.
+📡 Vector Databases & Search: Worked with Pinecone, ChromaDB, and BM25 for efficient retrieval.
+🚀 Cloud & Monitoring: Experience with LangSmith, Google Gemini, and Hugging Face models.
 
 ## Projects
 - 📈 Data Analysis & Visualization: [Black Friday Sales](https://www.kaggle.com/code/rajeshsingh3474/black-friday-sales/notebook), [Zomato Review Analysis](https://www.kaggle.com/CODE/RAJESHSINGH3474/ZOMATO-REVIEWS),[Power BI DashBoards](https://github.com/rajeshsingh123/Power-Bi-Projects)
